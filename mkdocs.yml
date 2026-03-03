@@ -75,9 +75,9 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Syllabus: PM516A/syllabus.md
-  - Weekly Content: PM516A/content.md
-  - Past Projects: PM516A/projects.md
+  - Syllabus: syllabus.md
+  - Weekly Content: content.md
+  - Past Projects: projects.md
 
 
 

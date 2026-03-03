@@ -24,12 +24,21 @@ The class session will be structured as follows:
 ## Scenarios
 
 [Scenario 1](scenario1.md)
+
 [Scenario 2](scenario2.md)
+
 [Scenario 3](scenario3.md)
+
 [Scenario 4](scenario4.md)
+
 [Scenario 5](scenario5.md)
+
 [Scenario 6](scenario6.md)
+
 [Scenario 7](scenario7.md)
+
 [Scenario 8](scenario8.md)
+
 [Scenario 9](scenario9.md)
+
 [Scenario 10](scenario10.md)
