@@ -1,5 +1,5 @@
 # PM516A — Biostatistical Consulting (Foundations)
-Spring 2026 <br>
+Fall 2026 <br>
 Monday 5:00 - 6:00pm
 
 ## Welcome!
