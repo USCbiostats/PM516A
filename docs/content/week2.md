@@ -6,7 +6,7 @@ The first consulting meeting sets the tone for a successful collaboration. This 
 
 By the end of this week you will be able to:
 
-1. Use the PICOT framework to clarify a research question.
+1. Refine a broad or unclear research question into a focused, statistically testable question and corresponding hypothesis.
 2. Identify professional considerations such as timelines, scope, and budget, that arise in a first consultation.
 
 ### Before Class
@@ -20,13 +20,14 @@ A key responsibility of a study biostatistician is translating a researcher's qu
 &#x27A4; Use a generative AI tool of your choice (e.g., Gemini, ChatGPT) to: 
 
 * Generate a hypothetical biostatistical consulting scenario. 
-* Identify the primary research question.
-* Express the research question using the PICOT framework.
+* Identify the primary research question using the PICOT framework.
+* Translate the refined research question into a statistically testable hypothesis.
   
 :fontawesome-brands-slack: Then, post to Slack:
 
 * Which AI tool you used.
 * The research question written in PICOT format.
+* The null and alternative statistical hypotheses.
 * One sentence critiquing or refining the AI-generated version (e.g., noting any unclear, unrealistic, or missing components).
 
 
