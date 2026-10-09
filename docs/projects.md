@@ -2,6 +2,10 @@
 
 | Semester | Investigator | Department | Project Title |
 |----------|--------------|------------|---------------|
+| **Fall 2026** | | | |
+|  | Tiffany Abramson | Emergency Medicine | Differences In Emergency Treatment for Housed vs. Unhoused Individuals |
+|  | Sabitha Pillai | Pediatrics (CHLA) | Anthropometric and Liver Health Characteristics of Children Diagnosed with Type-2 Diabetes |
+|  | Gene Tekmyster | Orthopaedic Surgery | Patient Response to Repeat Epidural Steroid Injections |
 | **Spring 2026** |  |  |  |
 |  | Nhu Tran | Pediatrics (CHLA) | Associations Between Cerebrovascular Health and Neurodevelopmental Outcomes in Children |
 |  | Madeleine Orringer | Orthopaedic Surgery | Factors Influencing Availability of Protective Gear for Female Orthopaedic Surgeons |

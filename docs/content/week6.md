@@ -13,11 +13,19 @@ By the end of this week you will be able to:
 
 #### Project Progress
 
-👥 Meet with your group and make progress on the following questions about your project:
+After meeting with an investigator, the next step is to turn their research questions into a concrete statistical plan. This means translating the research questions into statistical hypotheses, describing which variables and statistical methods you will use, and the specific results that will be needed to answer each question.
 
-* Write a list of the research questions your investigator had. 
-* For each item on the list, which variable(s) will you use?
-* Group these variables into exposure vs. outcome.
+👥 Meet with your group and discuss what is being asked of your role in this consultation. For each of your investigator's research questions, identify:
+
+1. *Research Question.* What specifically does the investigator want to know?
+2. *Type of Analysis.* Is the question descriptive or inferential? Are you summarizing the observed data, estimating a population parameter, or testing a specific hypothesis?
+3. *Hypothesis.* If the question is inferential, what is the hypothesis being tested? Specify the null and alternative hypotheses, where appropriate.
+4. *Variables.* Which variables are needed? Identify outcomes, exposures, and potential covariates, as applicable.
+5. *Statistical Approach.* What specific statistical methods or tests will you use to answer the question?
+6. *Results.* What information in the results (e.g., parameter estimates) will directly answer the question?
+7. *Additional Requests.* Has the investigator requested any work beyond statistical analysis (e.g., qualitative response coding, data entry, data management)? If so, describe what is being requested, whether it falls into the scope of your consultation, and how your group plans to address it.
+
+:fontawesome-brands-slack: Post this update to Slack.
 
 #### Statistical Mistakes
 
