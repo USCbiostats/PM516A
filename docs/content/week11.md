@@ -10,21 +10,22 @@ By the end of this week you will be able to:
 
 ### Before Class
 
-#### Project Progress
+#### Project Checkpoint 5: Prioritizing the Findings
 
-👥 Meet with your group and make progress on the following questions about your project:
+Not every analysis belongs in the final report. Some analyses directly answer the investigator's research questions, while others provide supporting information or help the statistician evaluate the validity of the results.
 
-Not every analysis belongs in the final report — some serve to strengthen internal understanding rather than inform the investigator. Consider all analyses you have performed up to this point. Write a list of what the analysis was, why you did it, and classify each into the following categories: 
+&#x27A4;  Review the analyses your group has performed so far. For each, briefly describe what you did, why you did it, and classify it into one of three categories:
 
-* A. Analysis that is essential for the investigator to know and directly addresses the research question. 
-* B. Analysis that may be important for the investigator to know, but you would not necessarily include it in a manuscript (think: is it one of the top 5-10 analyses that you have or will perform?) 
-* C. Analysis that is important to you (the statistician) ONLY, and is not relevant for the investigator. 
+* **A. Primary Findings:** Results that directly address the investigator's research questions and should be emphasized in the final presentation or manuscript.
+* **B. Supporting Information:** Results that provide important context or support the interpretation of the primary findings, but may not need to be emphasized.
+* **C. Internal Analyses:** Analyses used primarily to evaluate data quality, check assumptions, or guide analytical decisions. These may be documented in an appendix or retained in your analytical records rather than presented as main findings.
 
 Use this table as a guide:  
 
 | Analysis | Rationale | Importance |
 | -------- | --------- | ---------- |
-|Examined patterns of missingness across all variables | Ensures large enough sample size and that analyses are not biased | B |
+| Examined patterns of missingness across all variables | Assess completeness of data and potential for bias | B |
+| Examined residual QQ plot | Evaluate assumptions of regression model | C |
 
 #### Manuscript Checklists
 
@@ -38,7 +39,11 @@ Use this table as a guide:
 
 ### In Class
 
-In week's class we will discuss the statistician’s role in shaping the final report and how to prioritize findings for presentation. We will additionally discuss how to prioritize the information presented to the investigator. 
+This week we will discuss the statistician's role as a curator of scientific information. We will discuss which findings should be emphasized, which provide supporting information, and which are primarily useful to the statistician. Be prepared to explain and defend your classifications. You will have an opportunity to revisit your classifications and consider which findings should be included in your final investigator presentation.
+
+We will also briefly discuss reporting guidelines such as STROBE and CONSORT, including how statisticians contribute to complete and transparent reporting.
+
+:fontawesome-brands-slack: After this class session, have a representative from your team post the results of this exercise to Slack.
 
 ### Reflection
 

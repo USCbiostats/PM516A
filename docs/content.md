@@ -11,7 +11,7 @@
 |[**Week 5**](content/week5.md) <br /> M 10/5 | Investigator Meeting |
 |[**Week 6**](content/week6.md) <br /> M 10/12 | Statistical Mistakes |
 |[**Week 7**](content/week7.md) <br /> M 10/19 | Communicating Statistical Concepts |
-|[**Week 8**](content/week8.md) <br /> M 10/26 | Project Check-In |
+|[**Week 8**](content/week8.md) <br /> M 10/26 | Statistical Analysis Workshop |
 |[**Week 9**](content/week9.md) <br /> M 11/2 | Following Up: Reflection and Growth |
 |[**Week 10**](content/week10.md) <br /> M 11/9 | Presenting Statistical Information |
 |[**Week 11**](content/week11.md) <br /> M 11/16 | From Analysis to Manuscript |

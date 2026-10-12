@@ -13,12 +13,15 @@ By the end of this week you will be able to:
 
 #### Project
 
-👥 Meet with your group to finalize your presentation. As a reminder, here are the following guidelines:
+👥 Work with your group to finalize your presentation. As a reminder, here are the following guidelines:
 
-* You will have 25 minutes with your investigator. Plan for a 10-15 minute presentation, leaving sufficient time for your investigator to respond. 
+* You will have 25 minutes with your investigator. Plan for a 10-minute presentation, leaving sufficient time for questions and discussion. 
 * Clearly address each of the investigator's research questions. Organizing your presentation around these questions may be helpful.
-* Each team member must contribute to the presentation.
+* Focus on the key findings, their interpretations, and any important limitations or recommendations.
+* Each team member must contribute to the presentation and discussion.
 * Arrive on time and have your webcam on throughout the meeting, as this is a professional consultation.
+
+Remember that this is a conversation with your investigator, not simply a presentation. Be prepared to answer questions, clarify your findings, and discuss potential next steps.
 
 ### Farewell
 

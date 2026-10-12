@@ -11,6 +11,12 @@ By the end of this week, you will be able to:
 
 ### Before Class
 
+#### Group Reflection
+
+Following last week's Statistical Analysis Workshop, take a moment to reflect on how your team is functioning. Consider how responsibilities have been distributed, whether everyone is contributing meaningfully, and whether any concerns need to be addressed as you move into the final stages of your project.
+
+🖥️ Complete the [mid-project group reflection](https://docs.google.com/forms/d/e/1FAIpQLSeGA0qy1NA7JNkD1paoON_S1kjBPobGFYnRAaVZ6q2D9I4T_g/viewform?usp=header). You should complete this reflection individually. The results will remain confidential.
+
 #### Building Relationships
 
 📖 [30 Things I Learned in 30 Years As A Statistical Consultant](https://www.thejuliagroup.com/blog/30-things-i-learned-in-30-years-as-a-statistical-consultant-part-1-of-lots/) (5 minutes)<br />
@@ -37,7 +43,7 @@ Use an AI tool to suggest a consulting "brand" based on the following:
   * The 2-3 strengths you bring to consulting.
   * Your Myers-Briggs personality type.
   
-:fontawesome-brands-slack: Post a brief description of this brand to Slack.
+:fontawesome-brands-slack: Post a brief description of this brand to Slack, and explain whether this brand accurately represents how you want to be perceived as a statistical consultant.
 
 ### In Class
 

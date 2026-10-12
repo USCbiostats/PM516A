@@ -10,18 +10,28 @@ By the end of this week, you will be able to:
 
 ### Complete Before Class
 
-#### Project Progress
+#### Project Checkpoint 6: Preparing the Final Presentation
 
-👥 Meet with your group and make progress on the following questions about your project:
+Your analyses should now be largely complete, and your group should have identified the key findings that address your investigator's research questions. The next step is to organize these findings into a clear, coherent presentation.
 
-* Bring a draft of your presentation to the synchronous session.
+👥 Work with your group to prepare a draft of your final presentation. Your presentation should:
+
+* Briefly introduce the research questions and analytical approach. (Note: you do NOT need an extensive background -- your client already knows the context!)
+* Present the key findings, using tables and figures where appropriate.
+* Interpret the findings in terms that are meaningful to the investigator.
+* Discuss important limitations, and recommendations for future work.
+* Be transparent about what your group was able to accomplish, what remains unresolved, and any decisions or additional information that would still be needed from the investigator.
+
+You should aim for a 10-minute presentation, followed by 10-15 minutes of question and discussion. The exact timing may vary depending on the complexity of the project.
+
+:fontawesome-brands-slack: Have a representative from your team post your draft presentation to Slack.
 
 #### Ethics
 
 📖 [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800) (13 minutes)  
 
 &#x27A4; Which flaw in this study most undermines its credibility, and why? <br />
-&#x27A4; Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” Who bears the most responsibility when misleading findings are amplified??
+&#x27A4; Bohannon reports that “if you lay out the information just right, you can shape the story that emerges in the media almost like you were writing those stories yourself.” Who bears the most responsibility when misleading findings are amplified?
 
 🎥 [The Potti Case](https://www.youtube.com/watch?v=W5sZTNPMQRM) (14 minutes)
 

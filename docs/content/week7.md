@@ -11,13 +11,16 @@ By the end of this week you will be able to:
 
 ### Before Class
 
-#### Project Progress
+#### Project Checkpoint 2: Evaluating the Data
 
-👥 Meet with your group and make progress on the following questions about your project:
+👥 Work with your group and evaluate the data you have:
 
-* Comment on whether your data was in a format that is acceptable for analysis. Check variable names, variable types, and values within variables. Is the data set free of any extraneous information (e.g., notes, color formatting)? How many observations are there?
-* Comment on the distributions of the variables you will use, providing measures of variation and central tendency. Comment on outliers or implausible values. 
-* Comment on any missingness in your variables. If present, how extensive is any missingness? Are missing values clearly denoted?
+1. **Data Structure and Quality.** Is the dataset in a format suitable for analysis? Check variable names, types, and values within variables. Is the data set free of any extraneous information (e.g., notes, color formatting)? How many observations are there? Are the variables needed for your planned analysis available?
+2. **Distributions.** Examine the distributions of variables you plan to use, including appropriate measures of central tendency and variability. Are there outliers, implausible vlaues, or other concerns?
+3. **Missing Data.** Are there missing values in your variables? If so, how extensive is the missingness, and are the missing values clearly defined?
+4. **Next Steps.** What data-related issues need to be resolved before proceeding with your analyses? How does your group plan to address them?
+
+:fontawesome-brands-slack: Have a representative from your team post a summary of any data-related concerns and proposed next steps on Slack.
 
 #### Communicating Results
 

@@ -1,8 +1,8 @@
 # Week 8
 
-## Project Check-In
+## Statistical Analysis Workshop
 
-This week serves as an analysis checkpoint. Your group will submit a concise draft outlining your research questions and proposed analysis plan. You will receive structured feedback before moving forward with formal modeling and presentation preparation.
+This week is dedicated to making progress on your consulting projects. Having defined your analysis plan and evaluated your data in the previous two checkpoints, you will now bring that work together into a project draft outline. You will also have time to work with your group, clarify outstanding questions, and establish responsibilities for completing the remaining analyses.
 
 By the end of this week you will be able to:
 
@@ -11,35 +11,52 @@ By the end of this week you will be able to:
 
 ### Before Class
 
-👥 Meet with your group and compile a <u>project draft outline</u>. There should just be one document per group. You may e-mail it or send via Slack. It should include the following:
+👥 Work with your group to determine which initial exploratory analyses are relevant to your research questions.
+
+* Calculate summary statistics for your main variables.
+* Explore relationships between key variables using simple bivariate analyses.
+* Identify any unexpected findings or concerns that may affect your proposed analysis plan.
+
+### In Class
+
+This week will be a structured group working session. You will have dedicated time to work on your consulting project, and we will discuss strengths, potential weaknesses, and next steps to strengthen your final presentation.
+
+After class, you will complete a brief, confidential check-in regarding group participation and communication. This is intended to ensure equitable contribution and address any concerns early.
+
+#### Project Checkpoint 3: Developing the Project Outline
 
 **Background and Scope**
 
 * List your research questions clearly.
-* Identify your outcome and exposure variables.
 * Describe the source of the data.
+* Identify your exposure, outcome, and covariate variables.
 
 **Data Overview**
 
-* Describe the unit of observation (e.g., participant, procedure, visit, time period) and the total number of observations available.
-* Describe the extent of missing data.
-* Discuss concerns with any variables (e.g., input errors, unclear coding) and note any data cleaning steps performed.
+* Describe the unit of observation (e.g., participant, procedure, visit, time period) and the total number of observations available (i.e., your analytic sample size).
+* Summarize the extent of missing data.
+* Discuss concerns with data quality (e.g., input errors, unclear coding) and note any data cleaning steps performed or still needed.
 
 **Initial Analysis**
 
 * Present summary statistics that describe the main variables (tables or figures), emphasizing their distributions.
 * Include simple bivariate analyses that explore the relationships between key variables (e.g., means by group, correlations, contingency tables).
+* Identify any findings that may affect your planned analyses.
 
 **Proposed Analysis Plan**
  
 * For each research question, state the planned statistical approach.
 * Specify the null and alternative hypothesis for each test, with regard to your model parameters.
+* Identify any unresolved analytical decisions or questions requiring clarification.
 
-### In Class
+**Team Responsibilities and Next Steps**
 
-This week will be a structured workshop. Each group will briefly present their research questions and proposed analysis plan, and we will discuss strengths, potential weaknesses, and next steps to strengthen your final presentation.
+* Identify the remaining tasks necessary to complete the analyses and prepare the final presentation.
+* Decide how to assign responsibility for these tasks among team members.
+* Establish expectations and a timeline for completing these tasks.
+* Discuss whether responsibilities are being shared equitably and whether any team members need additional support.
 
-After class, you will complete a brief, confidential check-in regarding group participation and communication. This is intended to ensure equitable contribution and address any concerns early.
+:fontawesome-brands-slack: Have a representative from your team submit your project draft outline via Slack at the end of class. Your outline is a working document and does not need to be polished or complete. Clearly identify any outstanding questions or decisions for which your group needs guidance.
 
 ### Reflection
 

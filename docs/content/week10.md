@@ -11,11 +11,16 @@ By the end of this week you will be able to:
 
 ### Before Class
 
-#### Project Progress
+#### Project Checkpoint 4: Presenting Your Findings
 
-👥 Meet with your group and make progress on the following questions about your project:
+*A picture is worth a thousand words,* and tables and figures can help convey complex results that would be tedious to explain through text. That said, figures and tables are not always warranted for each finding.
 
-* Draft a table and a figure that you think illustrates an important preliminary descriptive finding.
+👥 Work with your group to prepare at leeast one of the following:
+
+* A table presenting an important finding from your project.
+* A figure illustrating an important finding from your project.
+
+Your table and/or figure should communicate substantive results, which may include descriptive or inferential findings, depending on your research questions. For the table and/or figure, identify which research question it addresses and what conclusion the investigator should draw from it.
 
 #### Improving Graphs & Figures
 
@@ -31,11 +36,11 @@ By the end of this week you will be able to:
 
 📖 [Closer Look at Charts vs Tables: The Right Data Visualization](https://ninjatables.com/charts-vs-tables-better-data-visualization/?srsltid=AfmBOop1bgSLZGO_SWROr6jOA4tEX1AXvedS_8_JC4IGymAYZT7xSthm) (7 minutes)
 
-&#x27A4; For your drafted table and figure, explain why each is best presented in that format (or whether it should be changed).
+&#x27A4; For your drafted table and/or figure, justify why it is best presented in that format.
 
 ### In Class
 
-In week's class we will critique selected “bad graphs,” discuss common visualization pitfalls, and workshop your project tables and figures.
+In this week's class, we will critique selected “bad graphs,” discuss common visualization pitfalls, and workshop your project tables and figures.
 
 ### Reflection
 
